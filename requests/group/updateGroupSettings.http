@@ -1,0 +1,8 @@
+PATCH http://localhost:3000/api/groups/26/settings
+Content-Type: application/json
+
+{
+  "name":"new name",
+  "description": "group for ...",
+  "musor":"111"
+}

@@ -1,0 +1,11 @@
+PATCH  http://localhost:3000/api/tasks/1 HTTP/1.1
+Content-Type: application/json
+
+{
+  "taskId":"360",
+  "values":{
+    "body":"task 360 new",
+    "isDone": true
+  }
+  
+}
