@@ -1,0 +1,8 @@
+POST http://localhost:3000/api/groups HTTP/1.1
+Content-Type: application/json
+
+{
+  "name":"teams 2",
+  "userId":2,
+  "musor":"111"
+}
